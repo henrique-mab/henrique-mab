@@ -44,8 +44,8 @@ I have experience developing applications with Node.js, TypeScript, React, and N
 
 ## 📫 Contact
 
-- LinkedIn: [linkedin.com/in/henriquebraga-/](https://linkedin.com)
+- LinkedIn: [linkedin.com/in/henriquebraga-/](https://linkedin.com/in/henriquebraga-/)
 - Email: henriquebraga066@gmail.com
-- GitHub: [github.com/henrique-mab](https://github.com)
+- GitHub: [github.com/henrique-mab](https://github.com/henrique-mab)
 
 ---
