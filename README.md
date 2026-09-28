@@ -1,6 +1,6 @@
 # Hi, I'm Henrique Braga 👋
 
-### Software Engineer | Backend Developer
+### Software Engineer
 
 I'm a Software Engineer focused on building web applications, APIs, and cloud-based systems.
 
